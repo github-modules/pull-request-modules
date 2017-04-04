@@ -1,0 +1,23 @@
+{
+  "name": "pull-request-modules",
+  "version": "1.0.0",
+  "description": "npm modules for managing pull requests",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/pull-request-modules",
+  "author": "zeke",
+  "license": "MIT",
+  "scripts": {
+    "build": "npm run collect && npm run build",
+    "collect": "node collect.js",
+    "render": "node render.js > readme.md"
+  },
+  "devDependencies": {
+    "dedent": "^0.7.0",
+    "download-counts": "^1.72.0",
+    "mkdirp": "^0.5.1",
+    "ora": "^1.2.0",
+    "package-stream": "^3.0.0",
+    "pluralize": "^4.0.0",
+    "require-dir": "^0.3.1"
+  }
+}
