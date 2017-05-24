@@ -2,6 +2,8 @@
 
 > a list of 97 javascript modules for managing pull requests.
 
+See also [github-api-modules](https://github.com/nice-registry/github-api-modules)
+
 ## How?
 
 This list is created by:

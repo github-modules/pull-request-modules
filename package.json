@@ -7,7 +7,7 @@
   "author": "zeke",
   "license": "MIT",
   "scripts": {
-    "build": "npm run collect && npm run build",
+    "build": "npm run collect && npm run render",
     "collect": "node collect.js",
     "render": "node render.js > readme.md"
   },
