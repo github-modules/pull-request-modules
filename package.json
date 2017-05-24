@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "npm modules for managing pull requests",
   "main": "index.js",
-  "repository": "https://github.com/zeke/pull-request-modules",
+  "repository": "https://github.com/nice-registry/pull-request-modules",
   "author": "zeke",
   "license": "MIT",
   "scripts": {
