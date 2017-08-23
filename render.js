@@ -14,7 +14,8 @@ console.log(dedent`# Pull Request Modules
 
 > a list of ${packages.length} javascript modules for managing pull requests.
 
-See also [github-api-modules](https://github.com/nice-registry/github-api-modules)
+Find more datasets like this at 
+[nice-registry/about](https://github.com/nice-registry/about#datasets).
 
 ## How?
 
